@@ -18,7 +18,7 @@ Always exploring and researching new technologies for joy.
 <details>
     <summary>official school trip information book & site detail</summary>
 
-![image](https://makejoy.co.kr/github/jeju.png)
+![image](https://makejoy.co.kr/_assets/imgs/jeju.png)
 </details>
 
 - 🎨 &nbsp; 2019 | <a href="https://makejoy.co.kr/ktheme" target="_blank">**KakaoTalk Theme**</a>
