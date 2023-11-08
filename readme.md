@@ -16,7 +16,7 @@ Always exploring and researching new technologies for joy.
 - 💬 &nbsp; 2017 | <a href="https://makejoy.co.kr/_programs/mjbot/kakao" target="_blank">**KakaoTalk ChatBot**</a>
 - 🌐 &nbsp; 2018 | an **official school trip information book & site** for ICWD High school
 <details>
-    <summary>official school trip information book & site detail</summary>
+    <summary>official school trip information book & site detail [click here]</summary>
 
 ![image](https://makejoy.co.kr/github/imgs/jeju.png)
 </details>
