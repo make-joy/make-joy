@@ -13,7 +13,7 @@ Always exploring and researching new technologies for joy.
 ## 🛠️ My Project :
 
 - 🌐 &nbsp; 2016 | <a href="https://makejoy.co.kr" target="_blank">**makejoy web site**</a>
-- 💬 &nbsp; 2017 | <a href="https://makejoy.co.kr/mjbot/kakao" target="_blank">**KakaoTalk ChatBot**</a>
+- 💬 &nbsp; 2017 | <a href="https://makejoy.co.kr/_programs/mjbot/kakao" target="_blank">**KakaoTalk ChatBot**</a>
 - 🌐 &nbsp; 2018 | an **official school trip information book & site** for ICWD High school
 <details>
     <summary>official school trip information book & site detail</summary>
@@ -22,8 +22,8 @@ Always exploring and researching new technologies for joy.
 </details>
 
 - 🎨 &nbsp; 2019 | <a href="https://makejoy.co.kr/ktheme" target="_blank">**KakaoTalk Theme**</a>
-- 💬 &nbsp; 2020 | <a href="https://makejoy.co.kr/_programs/dmjbot/discord" target="_blank">**Discord MusicBot**</a>
-- 💬 &nbsp; 2021 | <a href="https://makejoy.co.kr/_programs/dmjbot/stable" target="_blank">**Discord DrawBot**</a>
+- 💬 &nbsp; 2020 | <a href="https://makejoy.co.kr/_programs/mjbot/discord" target="_blank">**Discord MusicBot**</a>
+- 💬 &nbsp; 2021 | <a href="https://makejoy.co.kr/_programs/mjbot/stable" target="_blank">**Discord DrawBot**</a>
 - 💻 &nbsp; 2022 | <a href="https://makejoy.co.kr/_programs/discord" target="_blank">**Discord Auto RPC**</a>
 - 🚄 &nbsp; 2023 | <a href="https://makejoy.co.kr/icsw" target="_blank">**Incheon Subway**</a>
 
