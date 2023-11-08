@@ -18,12 +18,12 @@ Always exploring and researching new technologies for joy.
 <details>
     <summary>official school trip information book & site detail</summary>
 
-![image](https://makejoy.co.kr/_assets/imgs/jeju.png)
+![image](https://makejoy.co.kr/github/imgs/jeju.png)
 </details>
 
 - 🎨 &nbsp; 2019 | <a href="https://makejoy.co.kr/ktheme" target="_blank">**KakaoTalk Theme**</a>
-- 💬 &nbsp; 2020 | <a href="https://makejoy.co.kr/mjbot/discord" target="_blank">**Discord MusicBot**</a>
-- 💬 &nbsp; 2021 | <a href="https://makejoy.co.kr/mjbot/stable" target="_blank">**Discord DrawBot**</a>
+- 💬 &nbsp; 2020 | <a href="https://makejoy.co.kr/_programs/dmjbot/discord" target="_blank">**Discord MusicBot**</a>
+- 💬 &nbsp; 2021 | <a href="https://makejoy.co.kr/_programs/dmjbot/stable" target="_blank">**Discord DrawBot**</a>
 - 💻 &nbsp; 2022 | <a href="https://makejoy.co.kr/_programs/discord" target="_blank">**Discord Auto RPC**</a>
 - 🚄 &nbsp; 2023 | <a href="https://makejoy.co.kr/icsw" target="_blank">**Incheon Subway**</a>
 
