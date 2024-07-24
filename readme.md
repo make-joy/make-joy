@@ -8,7 +8,7 @@ Always exploring and researching new technologies for joy.
 
 - 📚 &nbsp; Graduated in 2019, **ICWD High School** (Science-focused Education Class).
 - 📚 &nbsp; Early graduated in 2023, majoring in computer engineering at <a href="https://www.jnu.ac.kr" target="_blank">**Chonnam National University**</a>.
-- 👨🏻‍💻 &nbsp; Working in **ICT Program Company** (Web / IOT) from 2021 until now.
+- 👨🏻‍💻 &nbsp; Working in **ICT Program Company** (Web / IOT) from 2021.01.01 ~ 2024.03.31
 
 ## 🛠️ My Project :
 
