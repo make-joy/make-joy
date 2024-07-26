@@ -50,6 +50,9 @@ Always exploring and researching new technologies for joy.
 <a href="https://spring.io" target="_blank"> 
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </a>
+<a href="https://android.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/android-00C717?style=for-the-badge&logo=android&logoColor=white">
+</a>
 <a href="https://mysql.com" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
