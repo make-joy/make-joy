@@ -23,7 +23,7 @@ Always exploring and researching new technologies for joy.
 
 - 🎨 &nbsp; 2019 | <a href="https://makejoy.co.kr/ktheme" target="_blank">**KakaoTalk Theme**</a>
 - 💬 &nbsp; 2020 | <a href="https://makejoy.co.kr/_programs/mjbot/discord" target="_blank">**Discord MusicBot**</a>
-- 💬 &nbsp; 2021 | <a href="https://makejoy.co.kr/_programs/mjbot/stable" target="_blank">**Discord DrawBot**</a>
+- 💬 &nbsp; 2021 | <a href="https://github.com/make-joy/Stable-Diffusion-Py-Discord-Bot" target="_blank">**Discord DrawBot**</a>
 - 💻 &nbsp; 2022 | <a href="https://makejoy.co.kr/_programs/discord" target="_blank">**Discord Auto RPC**</a>
 - 🚄 &nbsp; 2023 | <a href="https://makejoy.co.kr/icsw" target="_blank">**Incheon Subway**</a>
 - 🚄 &nbsp; 2024 | <a href="https://makejoy.co.kr/sw" target="_blank">**Korea & Japan Subway**</a>
