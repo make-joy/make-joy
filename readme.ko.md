@@ -10,7 +10,7 @@
 <a href="https://github.com/make-joy"><img src="https://img.shields.io/badge/github-make--joy-181717?style=flat-square&logo=github&logoColor=white"></a>
 <a href="mailto:makejoydev@gmail.com"><img src="https://img.shields.io/badge/email-makejoydev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 
-[English](./README.md) | **한국어**
+[English](./readme.md) | **한국어**
 
 </div>
 
