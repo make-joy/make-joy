@@ -6,8 +6,8 @@
 <br>
 Always exploring and researching new technologies for joy.
 
-<a href="https://makejoy.co.kr"><img src="https://img.shields.io/badge/website-makejoy.co.kr-FF6F61?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="https://github.com/make-joy"><img src="https://img.shields.io/badge/github-make--joy-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://makejoy.co.kr" target="_blank"><img src="https://img.shields.io/badge/website-makejoy.co.kr-FF6F61?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://github.com/make-joy" target="_blank"><img src="https://img.shields.io/badge/github-make--joy-181717?style=flat-square&logo=github&logoColor=white"></a>
 <a href="mailto:makejoydev@gmail.com"><img src="https://img.shields.io/badge/email-makejoydev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 
 **English** | [한국어](./readme.ko.md)
@@ -29,17 +29,17 @@ Always exploring and researching new technologies for joy.
 
 | Year | Project | Type | Description |
 | :-: | :-- | :-: | :-- |
-| 2026 | **[makejoy.co.kr Rework](https://makejoy.co.kr)** | `Web` | Personal website rework |
-| 2025 | **[doosan.iwinv.net](https://doosan.iwinv.net)** | `Web` | 2FA codes, password manager, notes, file sharing (no frameworks) |
-| 2024 | **[Korea & Japan Subway](https://makejoy.co.kr/subway/realtime.php)** | `Web` | Real-time subway information for Korea and Japan |
-| 2023 | **[Incheon Subway](https://makejoy.co.kr/subway/incheon.php)** | `Web` | Incheon subway information service |
-| 2022 | **[makejoy.co.kr Rework](https://makejoy.co.kr)** | `Web` | Personal website rework |
-| 2021 | **[Discord DrawBot](https://github.com/make-joy/Stable-Diffusion-Py-Discord-Bot)** | `Bot` | Stable Diffusion image generation bot |
-| 2020 | **[Discord MusicBot](https://ctrlji.iwinv.net/bot/discord.php)** | `Bot` | Music playback bot for Discord |
-| 2019 | **[KakaoTalk Theme](https://makejoy.co.kr/theme/kakao.php)** | `Design` | Custom KakaoTalk themes |
-| 2018 | **[Hello, Jeju!](https://makejoy.co.kr/jeju)** | `Web · Print` | Official school trip guidebook & website for ICWD High School |
-| 2017 | **[KakaoTalk ChatBot](https://ctrlji.iwinv.net/bot/kakao.php)** | `Bot` | Chatbot for KakaoTalk |
-| 2016 | **[makejoy.co.kr](https://makejoy.co.kr)** | `Web` | Personal website |
+| 2026 | <a href="https://ctrlji.mmv.kr" target="_blank"><b>Air Plan</b></a> | `Web` | Leave & schedule calendar for soldiers |
+| 2025 | <a href="https://doosan.iwinv.net" target="_blank"><b>Personal Toolkit</b></a> | `Web` | 2FA codes, password manager, notes, file sharing (no frameworks) |
+| 2024 | <a href="https://makejoy.co.kr/subway/realtime.php" target="_blank"><b>Korea & Japan Subway</b></a> | `Web` | Real-time subway information for Korea and Japan |
+| 2023 | <a href="https://makejoy.co.kr/subway/incheon.php" target="_blank"><b>Incheon Subway</b></a> | `Web` | Incheon subway information service |
+| 2022 | <a href="https://makejoy.co.kr" target="_blank"><b>Personal Website Rework</b></a> | `Web` | Renewal of makejoy.co.kr |
+| 2021 | <a href="https://github.com/make-joy/Stable-Diffusion-Py-Discord-Bot" target="_blank"><b>Discord DrawBot</b></a> | `Bot` | Stable Diffusion image generation bot |
+| 2020 | <a href="https://ctrlji.iwinv.net/bot/discord.php" target="_blank"><b>Discord MusicBot</b></a> | `Bot` | Music playback bot for Discord |
+| 2019 | <a href="https://makejoy.co.kr/theme/kakao.php" target="_blank"><b>KakaoTalk Theme</b></a> | `Design` | Custom KakaoTalk themes |
+| 2018 | <a href="https://makejoy.co.kr/jeju" target="_blank"><b>Hello, Jeju!</b></a> | `Web · Print` | Official school trip guidebook & website for ICWD High School |
+| 2017 | <a href="https://ctrlji.iwinv.net/bot/kakao.php" target="_blank"><b>KakaoTalk ChatBot</b></a> | `Bot` | Chatbot for KakaoTalk |
+| 2016 | <a href="https://makejoy.co.kr" target="_blank"><b>Personal Website</b></a> | `Web` | makejoy.co.kr |
 
 ## Tech Stack
 
