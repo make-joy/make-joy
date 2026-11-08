@@ -30,7 +30,7 @@ Always exploring and researching new technologies for joy.
 | Year | Project | Type | Description |
 | :-: | :-- | :-: | :-- |
 | 2026 | <a href="https://ctrlji.mmv.kr" target="_blank"><b>Air Plan</b></a> | `Web` | Leave & schedule calendar for soldiers |
-| 2025 | <a href="https://doosan.iwinv.net" target="_blank"><b>Personal Toolkit</b></a> | `Web` | 2FA codes, password manager, notes, file sharing (no frameworks) |
+| 2025 | <a href="https://doosan.iwinv.net" target="_blank"><b>Personal Toolkit</b></a> | `Web` | 2FA codes, password manager, notes, file sharing |
 | 2024 | <a href="https://makejoy.co.kr/subway/realtime.php" target="_blank"><b>Korea & Japan Subway</b></a> | `Web` | Real-time subway information for Korea and Japan |
 | 2023 | <a href="https://makejoy.co.kr/subway/incheon.php" target="_blank"><b>Incheon Subway</b></a> | `Web` | Incheon subway information service |
 | 2022 | <a href="https://makejoy.co.kr" target="_blank"><b>Personal Website Rework</b></a> | `Web` | Renewal of makejoy.co.kr |
