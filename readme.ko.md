@@ -6,8 +6,8 @@
 <br>
 즐거움을 위해 언제나 새로운 기술을 탐구하고 연구합니다.
 
-<a href="https://makejoy.co.kr"><img src="https://img.shields.io/badge/website-makejoy.co.kr-FF6F61?style=flat-square&logo=googlechrome&logoColor=white"></a>
-<a href="https://github.com/make-joy"><img src="https://img.shields.io/badge/github-make--joy-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://makejoy.co.kr" target="_blank"><img src="https://img.shields.io/badge/website-makejoy.co.kr-FF6F61?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://github.com/make-joy" target="_blank"><img src="https://img.shields.io/badge/github-make--joy-181717?style=flat-square&logo=github&logoColor=white"></a>
 <a href="mailto:makejoydev@gmail.com"><img src="https://img.shields.io/badge/email-makejoydev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 
 [English](./readme.md) | **한국어**
@@ -23,23 +23,23 @@
 | 25.02.&nbsp;–&nbsp;26.11. | 공군 지능정보체계관리단 | 소프트웨어개발병, 만기전역 |
 | 21.01.&nbsp;–&nbsp;24.03. | ICT 프로그램 개발 회사 (AI / 빅데이터 / 웹 / IoT) | 개발자 |
 | 2023 | <a href="https://www.jnu.ac.kr" target="_blank">전남대학교</a> | 컴퓨터공학 전공, 조기졸업 |
-| 2019 | ICWD 고등학교 | 과학중점반 |
+| 2019 | 인천원당고등학교 | 과학중점반 |
 
 ## 프로젝트
 
 | 연도 | 프로젝트 | 분류 | 설명 |
 | :-: | :-- | :-: | :-- |
-| 2026 | **[makejoy.co.kr 리워크](https://makejoy.co.kr)** | `웹` | 개인 웹사이트 리뉴얼 |
-| 2025 | **[doosan.iwinv.net](https://doosan.iwinv.net)** | `웹` | 2FA 코드, 비밀번호 관리, 메모, 파일 공유 (프레임워크 없이 개발) |
-| 2024 | **[한국 & 일본 지하철](https://makejoy.co.kr/subway/realtime.php)** | `웹` | 한국·일본 실시간 지하철 정보 |
-| 2023 | **[인천 지하철](https://makejoy.co.kr/subway/incheon.php)** | `웹` | 인천 지하철 정보 서비스 |
-| 2022 | **[makejoy.co.kr 리워크](https://makejoy.co.kr)** | `웹` | 개인 웹사이트 리뉴얼 |
-| 2021 | **[디스코드 그림봇](https://github.com/make-joy/Stable-Diffusion-Py-Discord-Bot)** | `봇` | Stable Diffusion 이미지 생성 봇 |
-| 2020 | **[디스코드 음악봇](https://ctrlji.iwinv.net/bot/discord.php)** | `봇` | 디스코드 음악 재생 봇 |
-| 2019 | **[카카오톡 테마](https://makejoy.co.kr/theme/kakao.php)** | `디자인` | 카카오톡 커스텀 테마 |
-| 2018 | **[Hello, Jeju!](https://makejoy.co.kr/jeju)** | `웹 · 인쇄` | ICWD 고등학교 공식 수학여행 안내책자 & 사이트 |
-| 2017 | **[카카오톡 챗봇](https://ctrlji.iwinv.net/bot/kakao.php)** | `봇` | 카카오톡 대화형 챗봇 |
-| 2016 | **[makejoy.co.kr](https://makejoy.co.kr)** | `웹` | 개인 웹사이트 |
+| 2026 | <a href="https://ctrlji.mmv.kr" target="_blank"><b>Air Plan</b></a> | `웹` | 군인 휴가 / 일정 관리 캘린더 |
+| 2025 | <a href="https://doosan.iwinv.net" target="_blank"><b>개인 툴킷</b></a> | `웹` | 2FA 코드, 비밀번호 관리, 메모, 파일 공유 |
+| 2024 | <a href="https://makejoy.co.kr/subway/realtime.php" target="_blank"><b>한국 & 일본 지하철</b></a> | `웹` | 한국·일본 실시간 지하철 정보 |
+| 2023 | <a href="https://makejoy.co.kr/subway/incheon.php" target="_blank"><b>인천 지하철</b></a> | `웹` | 인천 지하철 정보 서비스 |
+| 2022 | <a href="https://makejoy.co.kr" target="_blank"><b>개인 웹사이트 리워크</b></a> | `웹` | makejoy.co.kr 리뉴얼 |
+| 2021 | <a href="https://github.com/make-joy/Stable-Diffusion-Py-Discord-Bot" target="_blank"><b>디스코드 그림봇</b></a> | `봇` | Stable Diffusion 이미지 생성 봇 |
+| 2020 | <a href="https://ctrlji.iwinv.net/bot/discord.php" target="_blank"><b>디스코드 음악봇</b></a> | `봇` | 디스코드 음악 재생 봇 |
+| 2019 | <a href="https://makejoy.co.kr/theme/kakao.php" target="_blank"><b>카카오톡 테마</b></a> | `디자인` | 카카오톡 커스텀 테마 |
+| 2018 | <a href="https://makejoy.co.kr/jeju" target="_blank"><b>Hello, Jeju!</b></a> | `웹 · 인쇄` | ICWD 고등학교 공식 수학여행 안내책자 & 사이트 |
+| 2017 | <a href="https://ctrlji.iwinv.net/bot/kakao.php" target="_blank"><b>카카오톡 챗봇</b></a> | `봇` | 카카오톡 대화형 챗봇 |
+| 2016 | <a href="https://makejoy.co.kr" target="_blank"><b>개인 웹사이트</b></a> | `웹` | makejoy.co.kr |
 
 ## 기술 스택
 
